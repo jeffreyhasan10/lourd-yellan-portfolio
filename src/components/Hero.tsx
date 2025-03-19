@@ -17,7 +17,7 @@ const Hero = () => {
             Optometry Professional
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-neutral-900 mb-4 leading-tight opacity-0 animate-fadeIn" style={{animationDelay: '0.3s'}}>
-            Lourd Yellan <span className="text-opto-600">Ga</span>
+            Lourd Yellan <span className="text-opto-600">GA</span>
           </h1>
           <p className="text-lg md:text-xl text-neutral-600 mb-8 max-w-lg opacity-0 animate-fadeIn" style={{animationDelay: '0.5s'}}>
             Dedicated optometry professional with expertise in clinical eye care, diagnostic technologies, and patient-centered services.
