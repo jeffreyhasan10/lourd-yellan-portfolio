@@ -12,6 +12,7 @@ const Skills = () => {
         'Binocular Vision Testing',
         'Contact Lens Fitting',
         'Optical Dispensing',
+        'Low Vision ',
       ],
       delay: 'card-delay-1',
     },
