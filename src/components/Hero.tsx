@@ -44,7 +44,7 @@ const Hero = () => {
             <div className="relative overflow-hidden w-64 h-64 md:w-80 md:h-80 rounded-2xl bg-white p-2 border border-neutral-200 shadow-lg">
               <img 
                 src="/lovable-uploads/545a8d80-779e-4987-b4bc-237208053630.png" 
-                alt="Lourd Yellan Ga" 
+                alt="Lourd Yellan GA" 
                 className="w-full h-full object-cover rounded-xl"
               />
             </div>

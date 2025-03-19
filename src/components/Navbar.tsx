@@ -44,7 +44,7 @@ const Navbar = () => {
               className="h-6 w-6 text-opto-600 mr-2"
               strokeWidth={2.5}
             />
-            <span className="text-lg font-semibold text-neutral-900">Lourd Yellan Ga</span>
+            <span className="text-lg font-semibold text-neutral-900">Lourd Yellan GA</span>
           </div>
 
           {/* Desktop navigation */}

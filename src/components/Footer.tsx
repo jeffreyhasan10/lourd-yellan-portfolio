@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-6 md:mb-0">
             <Eye className="h-6 w-6 text-opto-400 mr-2" strokeWidth={2.5} />
-            <span className="text-lg font-semibold">Lourd Yellan Ga</span>
+            <span className="text-lg font-semibold">Lourd Yellan GA</span>
           </div>
           
           <div className="text-neutral-400 text-sm">
@@ -22,7 +22,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-neutral-500 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} Lourd Yellan Ga. All rights reserved.
+            &copy; {currentYear} Lourd Yellan GA. All rights reserved.
           </p>
           
           <div className="flex items-center text-neutral-500 text-sm">
